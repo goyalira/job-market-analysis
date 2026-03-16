@@ -84,6 +84,10 @@ Slicers were added for:
 These filters allow users to explore the job market data interactively.
 
 
+## Dashboard screenshot
+(dashboard_screenshot.png)
+
+
 
 ## Key Insights
 
